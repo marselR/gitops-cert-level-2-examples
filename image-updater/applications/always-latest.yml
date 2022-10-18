@@ -10,7 +10,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/marselR/gitops-certification-examples.git
+    repoURL: https://github.com/marselr/gitops-certification-examples.git
     targetRevision: HEAD
     path: ./image-updater/example-app/envs/qa/
    
